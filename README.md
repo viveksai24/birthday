@@ -114,12 +114,3 @@ The backend API provides the following endpoint:
 * **Confetti Animation**:
 
   * Once it's the user's birthday, the frontend triggers the `Canvas-Confetti` library to show a celebratory animation.
-
-## Contributing
-
-Feel free to fork the repository, submit issues, and send pull requests. If you want to improve the confetti animation, update the backend logic, or suggest new features, we welcome contributions!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
