@@ -9,7 +9,7 @@ export default function Home() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const res = await fetch("http://localhost:5000/api/birthday");
+      const res = await fetch("https://birthday-p9q8.onrender.com/api/birthday");
       const data = await res.json();
       setCountdown(data.countdown);
       setAge(data.age);
